@@ -1,0 +1,143 @@
+282959365 	Sep/26/2024 00:04UTC+5.5 	oreothicc 	D - Three Activities 	Java 21 	Wrong answer on test 1 	186 ms 	0 KB
+282958573 	Sep/25/2024 23:57UTC+5.5 	oreothicc 	C - Quests 	Java 21 	Accepted 	843 ms 	1000 KB
+282958106 	Sep/25/2024 23:53UTC+5.5 	oreothicc 	B - Preparing for the Contest 	Java 21 	Accepted 	374 ms 	1200 KB
+282957299 	Sep/25/2024 23:46UTC+5.5 	oreothicc 	A - Problemsolving Log 	Java 21 	Accepted 	249 ms 	400 KB
+282957057 	Sep/25/2024 23:44UTC+5.5 	oreothicc 	C - Game with Multiset 	Java 21 	Runtime error on test 1 	296 ms 	0 KB
+282956712 	Sep/25/2024 23:41UTC+5.5 	oreothicc 	B - Swap and Delete 	Java 21 	Accepted 	265 ms 	700 KB
+282956434 	Sep/25/2024 23:39UTC+5.5 	oreothicc 	B - Swap and Delete 	Java 21 	Wrong answer on test 1 	156 ms 	300 KB
+282954537 	Sep/25/2024 23:23UTC+5.5 	oreothicc 	A - Rating Increase 	Java 21 	Accepted 	327 ms 	400 KB
+282953318 	Sep/25/2024 23:12UTC+5.5 	oreothicc 	A - Rating Increase 	Java 21 	Wrong answer on test 1 	187 ms 	0 KB
+282085832 	Sep/20/2024 21:35UTC+5.5 	oreothicc 	A - Lucky Division 	Java 21 	Accepted 	560 ms 	600 KB
+282033501 	Sep/20/2024 20:25UTC+5.5 	oreothicc 	B - Lucky Substring 	Java 21 	Wrong answer on test 1 	374 ms 	100 KB
+282023602 	Sep/20/2024 20:17UTC+5.5 	oreothicc 	A - New Year Garland 	Java 21 	Accepted 	342 ms 	800 KB
+282003887 	Sep/20/2024 19:53UTC+5.5 	oreothicc 	A - Display The Number 	Java 21 	Accepted 	265 ms 	500 KB
+282003263 	Sep/20/2024 19:48UTC+5.5 	oreothicc 	A - Array with Odd Sum 	Java 21 	Accepted 	328 ms 	700 KB
+282002043 	Sep/20/2024 19:35UTC+5.5 	oreothicc 	A - Three Strings 	Java 21 	Accepted 	343 ms 	800 KB
+282001715 	Sep/20/2024 19:32UTC+5.5 	oreothicc 	A - cAPS lOCK 	Java 21 	Accepted 	327 ms 	1100 KB
+281998950 	Sep/20/2024 19:04UTC+5.5 	oreothicc 	A - Divisibility Problem 	Java 21 	Accepted 	390 ms 	600 KB
+281998421 	Sep/20/2024 18:59UTC+5.5 	oreothicc 	A - Add Odd or Subtract Even 	Java 21 	Accepted 	343 ms 	1000 KB
+281998107 	Sep/20/2024 18:57UTC+5.5 	oreothicc 	A - Three Piles of Candies 	Java 21 	Accepted 	327 ms 	800 KB
+281776795 	Sep/18/2024 23:25UTC+5.5 	oreothicc 	B - Rebellion 	Java 21 	Accepted 	593 ms 	1200 KB
+281775583 	Sep/18/2024 23:14UTC+5.5 	oreothicc 	A - The Ultimate Square 	Java 21 	Accepted 	358 ms 	1200 KB
+281772463 	Sep/18/2024 22:54UTC+5.5 	oreothicc 	A - Medium Number 	Java 21 	Accepted 	296 ms 	1000 KB
+281771150 	Sep/18/2024 22:44UTC+5.5 	oreothicc 	A - Sum 	Java 21 	Accepted 	296 ms 	1300 KB
+281767855 	Sep/18/2024 22:18UTC+5.5 	oreothicc 	A - Rock-Paper-Scissors 	Java 21 	Wrong answer on test 1 	434 ms 	500 KB
+281766553 	Sep/18/2024 22:08UTC+5.5 	oreothicc 	A - Mainak and Array 	Java 21 	Accepted 	374 ms 	1200 KB
+281765525 	Sep/18/2024 22:00UTC+5.5 	oreothicc 	B - Deadly Laser 	Java 21 	Accepted 	406 ms 	1200 KB
+281763733 	Sep/18/2024 21:45UTC+5.5 	oreothicc 	B - Mathematical Circus 	Java 21 	Accepted 	515 ms 	1100 KB
+281761435 	Sep/18/2024 21:27UTC+5.5 	oreothicc 	A - Chip Game 	Java 21 	Accepted 	327 ms 	800 KB
+281761171 	Sep/18/2024 21:25UTC+5.5 	oreothicc 	B - ICPC Balloons 	Java 21 	Accepted 	249 ms 	400 KB
+281568368 	Sep/17/2024 12:11UTC+5.5 	oreothicc 	A - Plus One on the Subset 	Java 21 	Accepted 	1077 ms 	1000 KB
+281567639 	Sep/17/2024 12:03UTC+5.5 	oreothicc 	A - Division? 	Java 21 	Accepted 	265 ms 	400 KB
+281563840 	Sep/17/2024 11:23UTC+5.5 	oreothicc 	B - Triple 	Java 21 	Accepted 	890 ms 	7200 KB
+281562396 	Sep/17/2024 11:06UTC+5.5 	oreothicc 	A - Odd Divisor 	Java 21 	Accepted 	327 ms 	1100 KB
+281562039 	Sep/17/2024 11:01UTC+5.5 	oreothicc 	A - Arithmetic Array 	Java 21 	Accepted 	359 ms 	1200 KB
+281561846 	Sep/17/2024 10:59UTC+5.5 	oreothicc 	A - Make Even 	Java 21 	Accepted 	280 ms 	800 KB
+281561625 	Sep/17/2024 10:57UTC+5.5 	oreothicc 	A - Everyone Loves to Sleep 	Java 21 	Accepted 	281 ms 	500 KB
+281561248 	Sep/17/2024 10:52UTC+5.5 	oreothicc 	A - Select Three Sticks 	Java 21 	Accepted 	312 ms 	1100 KB
+281560561 	Sep/17/2024 10:43UTC+5.5 	oreothicc 	A - Joey Takes Money 	Java 21 	Accepted 	546 ms 	1200 KB
+281560173 	Sep/17/2024 10:38UTC+5.5 	oreothicc 	A - Joey Takes Money 	Java 21 	Runtime error on test 1 	249 ms 	0 KB
+281559540 	Sep/17/2024 10:28UTC+5.5 	oreothicc 	A - Select Three Sticks 	Java 21 	Runtime error on test 1 	233 ms 	300 KB
+281559375 	Sep/17/2024 10:25UTC+5.5 	oreothicc 	A - Select Three Sticks 	Java 21 	Runtime error on test 1 	218 ms 	400 KB
+281341090 	Sep/15/2024 16:19UTC+5.5 	oreothicc 	A - Colour the Flag 	Java 21 	Runtime error on test 1 	203 ms 	200 KB
+281341046 	Sep/15/2024 16:19UTC+5.5 	oreothicc 	A - I_love_\%username\% 	Java 21 	Accepted 	530 ms 	1100 KB
+281340792 	Sep/15/2024 16:16UTC+5.5 	oreothicc 	A - Arithmetic Array 	Java 21 	Runtime error on test 1 	202 ms 	0 KB
+281340662 	Sep/15/2024 16:15UTC+5.5 	oreothicc 	A - Colour the Flag 	Java 21 	Runtime error on test 1 	234 ms 	200 KB
+281340527 	Sep/15/2024 16:14UTC+5.5 	oreothicc 	A - Spy Detected! 	Java 21 	Accepted 	280 ms 	200 KB
+281339982 	Sep/15/2024 16:09UTC+5.5 	oreothicc 	A - Spy Detected! 	Java 21 	Wrong answer on test 1 	171 ms 	0 KB
+281339539 	Sep/15/2024 16:05UTC+5.5 	oreothicc 	A - Soft Drinking 	Java 21 	Accepted 	560 ms 	1100 KB
+281339313 	Sep/15/2024 16:03UTC+5.5 	oreothicc 	A - Insomnia cure 	Java 21 	Accepted 	718 ms 	7100 KB
+281339261 	Sep/15/2024 16:03UTC+5.5 	oreothicc 	A - Odd Divisor 	Java 21 	Runtime error on test 1 	281 ms 	900 KB
+281338415 	Sep/15/2024 15:56UTC+5.5 	oreothicc 	A - Strange Partition 	Java 21 	Wrong answer on test 3 	374 ms 	1100 KB
+281337205 	Sep/15/2024 15:46UTC+5.5 	oreothicc 	A - Floor Number 	Java 21 	Accepted 	265 ms 	700 KB
+281336792 	Sep/15/2024 15:42UTC+5.5 	oreothicc 	A - Amusing Joke 	Java 21 	Accepted 	560 ms 	1200 KB
+281335709 	Sep/15/2024 15:32UTC+5.5 	oreothicc 	A - Remove Smallest 	Java 21 	Accepted 	234 ms 	600 KB
+280930441 	Sep/13/2024 08:59UTC+5.5 	oreothicc 	A - We Need the Zero 	Java 21 	Accepted 	233 ms 	900 KB
+280929966 	Sep/13/2024 08:51UTC+5.5 	oreothicc 	A - Walking Master 	Java 21 	Accepted 	343 ms 	700 KB
+280928746 	Sep/13/2024 08:30UTC+5.5 	oreothicc 	A - Insert Digit 	Java 21 	Accepted 	358 ms 	1200 KB
+280928598 	Sep/13/2024 08:27UTC+5.5 	oreothicc 	A - TubeTube Feed 	Java 21 	Accepted 	452 ms 	600 KB
+280928390 	Sep/13/2024 08:23UTC+5.5 	oreothicc 	A - Is It a Cat? 	Java 21 	Accepted 	311 ms 	900 KB
+280928166 	Sep/13/2024 08:20UTC+5.5 	oreothicc 	A - GamingForces 	Java 21 	Accepted 	296 ms 	700 KB
+280927470 	Sep/13/2024 08:07UTC+5.5 	oreothicc 	A - Divisible Array 	Java 21 	Accepted 	358 ms 	900 KB
+280927282 	Sep/13/2024 08:04UTC+5.5 	oreothicc 	A - Coins 	Java 21 	Accepted 	342 ms 	600 KB
+280927186 	Sep/13/2024 08:02UTC+5.5 	oreothicc 	A - Serval and Mocha's Array 	Java 21 	Accepted 	499 ms 	1200 KB
+280926842 	Sep/13/2024 07:56UTC+5.5 	oreothicc 	A - One and Two 	Java 21 	Accepted 	359 ms 	1000 KB
+280868573 	Sep/12/2024 19:37UTC+5.5 	oreothicc 	A - Increasing and Decreasing 	Java 21 	Accepted 	374 ms 	1000 KB
+280866535 	Sep/12/2024 19:24UTC+5.5 	oreothicc 	A - Buttons 	Java 21 	Wrong answer on test 1 	156 ms 	400 KB
+280865243 	Sep/12/2024 19:15UTC+5.5 	oreothicc 	A - Make It Zero 	Java 21 	Accepted 	390 ms 	1200 KB
+280863459 	Sep/12/2024 19:02UTC+5.5 	oreothicc 	A - MEXanized Array 	Java 21 	Accepted 	343 ms 	600 KB
+280860401 	Sep/12/2024 18:40UTC+5.5 	oreothicc 	A - Ambitious Kid 	Java 21 	Accepted 	484 ms 	1200 KB
+280859422 	Sep/12/2024 18:33UTC+5.5 	oreothicc 	A - Gift Carpet 	Java 21 	Runtime error on test 2 	233 ms 	0 KB
+280855513 	Sep/12/2024 18:03UTC+5.5 	oreothicc 	A - United We Stand 	Java 21 	Accepted 	499 ms 	2000 KB
+280849424 	Sep/12/2024 17:15UTC+5.5 	oreothicc 	A - Array Coloring 	Java 21 	Accepted 	281 ms 	400 KB
+280849299 	Sep/12/2024 17:13UTC+5.5 	oreothicc 	A - Not a Substring 	Java 21 	Accepted 	328 ms 	500 KB
+280849085 	Sep/12/2024 17:11UTC+5.5 	oreothicc 	A - Dalton the Teacher 	Java 21 	Accepted 	452 ms 	800 KB
+280725091 	Sep/11/2024 17:26UTC+5.5 	oreothicc 	C - Array Splitting 	Java 21 	Accepted 	952 ms 	5200 KB
+280724208 	Sep/11/2024 17:18UTC+5.5 	oreothicc 	C - Basketball Exercise 	Java 21 	Runtime error on test 1 	233 ms 	900 KB
+280724139 	Sep/11/2024 17:18UTC+5.5 	oreothicc 	C - Computer Game 	Java 21 	Wrong answer on test 2 	937 ms 	400 KB
+280723598 	Sep/11/2024 17:13UTC+5.5 	oreothicc 	C - Beautiful Lyrics 	Java 21 	Accepted 	702 ms 	17000 KB
+280644645 	Sep/10/2024 23:08UTC+5.5 	oreothicc 	C - Songs Compression 	Java 21 	Accepted 	718 ms 	900 KB
+280643624 	Sep/10/2024 23:00UTC+5.5 	oreothicc 	C - Bracket Subsequence 	Java 21 	Accepted 	546 ms 	1900 KB
+280638898 	Sep/10/2024 22:23UTC+5.5 	oreothicc 	C - Three Parts of the Array 	Java 21 	Accepted 	859 ms 	17400 KB
+280637829 	Sep/10/2024 22:15UTC+5.5 	oreothicc 	C - Summarize to the Power of Two 	Java 21 	Accepted 	905 ms 	6500 KB
+280636245 	Sep/10/2024 22:03UTC+5.5 	oreothicc 	C - Sonya and Robots 	Java 21 	Accepted 	703 ms 	21200 KB
+280635100 	Sep/10/2024 21:54UTC+5.5 	oreothicc 	C - Intense Heat 	Java 21 	Accepted 	359 ms 	1700 KB
+280633680 	Sep/10/2024 21:45UTC+5.5 	oreothicc 	A - Equality 	Java 21 	Accepted 	405 ms 	1600 KB
+280631689 	Sep/10/2024 21:29UTC+5.5 	oreothicc 	A - Ehab and another construction problem 	Java 21 	Accepted 	327 ms 	1800 KB
+280631285 	Sep/10/2024 21:26UTC+5.5 	oreothicc 	C - Meme Problem 	Java 21 	Accepted 	296 ms 	2400 KB
+280630917 	Sep/10/2024 21:24UTC+5.5 	oreothicc 	A - Birthday 	Java 21 	Accepted 	312 ms 	1800 KB
+277060083 	Aug/18/2024 19:18UTC+5.5 	oreothicc 	A - Setting up Camp 	Java 21 	Accepted 	359 ms 	500 KB
+277058637 	Aug/18/2024 19:07UTC+5.5 	oreothicc 	A - Turtle and Piggy Are Playing a Game 	Java 21 	Accepted 	374 ms 	1300 KB
+277058322 	Aug/18/2024 19:05UTC+5.5 	oreothicc 	A - Creating Words 	Java 21 	Accepted 	280 ms 	600 KB
+277058160 	Aug/18/2024 19:03UTC+5.5 	oreothicc 	A - Little Nikita 	Java 21 	Accepted 	296 ms 	400 KB
+277057018 	Aug/18/2024 18:55UTC+5.5 	oreothicc 	A - Verify Password 	Java 21 	Accepted 	327 ms 	900 KB
+277056619 	Aug/18/2024 18:52UTC+5.5 	oreothicc 	A - Catch the Coin 	Java 21 	Accepted 	249 ms 	800 KB
+275912472 	Aug/12/2024 13:33UTC+5.5 	oreothicc 	D - Distinct Split 	Java 21 	Accepted 	359 ms 	1100 KB
+275902524 	Aug/12/2024 12:14UTC+5.5 	oreothicc 	B - Array merging 	Java 21 	Time limit exceeded on test 3 	1000 ms 	30000 KB
+275902211 	Aug/12/2024 12:12UTC+5.5 	oreothicc 	B - Array merging 	Java 21 	Wrong answer on test 2 	765 ms 	100 KB
+275901783 	Aug/12/2024 12:08UTC+5.5 	oreothicc 	B - Array merging 	Java 21 	Wrong answer on test 2 	811 ms 	1100 KB
+275900650 	Aug/12/2024 11:59UTC+5.5 	oreothicc 	C - Raspberries 	Java 21 	Accepted 	421 ms 	1100 KB
+275900440 	Aug/12/2024 11:57UTC+5.5 	oreothicc 	C - Raspberries 	Java 21 	Wrong answer on test 2 	312 ms 	100 KB
+275899726 	Aug/12/2024 11:51UTC+5.5 	oreothicc 	C - Raspberries 	Java 21 	Wrong answer on test 2 	327 ms 	900 KB
+275641171 	Aug/10/2024 23:36UTC+5.5 	oreothicc 	A - Helmets in Night Light 	Java 21 	Accepted 	656 ms 	1800 KB
+275640940 	Aug/10/2024 23:34UTC+5.5 	oreothicc 	A - Helmets in Night Light 	Java 21 	Accepted 	639 ms 	6200 KB
+275639737 	Aug/10/2024 23:27UTC+5.5 	oreothicc 	A - Helmets in Night Light 	Java 21 	Wrong answer on test 3 	577 ms 	500 KB
+275638213 	Aug/10/2024 23:18UTC+5.5 	oreothicc 	A - Helmets in Night Light 	Java 21 	Compilation error 	0 ms 	0 KB
+275635945 	Aug/10/2024 23:05UTC+5.5 	oreothicc 	A - Helmets in Night Light 	Java 21 	Compilation error 	0 ms 	0 KB
+275633873 	Aug/10/2024 22:48UTC+5.5 	oreothicc 	A - Helmets in Night Light 	Java 21 	Compilation error 	0 ms 	0 KB
+263959023 	Jun/03/2024 20:51UTC+5.5 	oreothicc 	A - Problem Generator 	Java 21 	Accepted 	233 ms 	100 KB
+255695153 	Apr/08/2024 20:57UTC+5.5 	oreothicc 	A - Yogurt Sale 	Java 21 	Accepted 	280 ms 	900 KB
+254404708 	Apr/01/2024 14:55UTC+5.5 	oreothicc 	B - Jagged Swaps 	Java 21 	Accepted 	389 ms 	900 KB
+254330999 	Mar/31/2024 22:23UTC+5.5 	oreothicc 	G - Swap and Delete 	Java 21 	Wrong answer on test 2 	374 ms 	400 KB
+254328670 	Mar/31/2024 22:01UTC+5.5 	oreothicc 	E - Chemistry 	Java 21 	Accepted 	373 ms 	700 KB
+254324825 	Mar/31/2024 21:25UTC+5.5 	oreothicc 	A - Game with Integers 	Java 21 	Accepted 	264 ms 	300 KB
+254107162 	Mar/30/2024 18:42UTC+5.5 	oreothicc 	A - Shuffle Party 	Java 21 	Accepted 	326 ms 	900 KB
+254102988 	Mar/30/2024 18:10UTC+5.5 	oreothicc 	B - Sum of Round Numbers 	Java 21 	Accepted 	529 ms 	400 KB
+254101676 	Mar/30/2024 18:00UTC+5.5 	oreothicc 	M - Find and Replace 	Java 21 	Accepted 	342 ms 	0 KB
+254099100 	Mar/30/2024 17:40UTC+5.5 	oreothicc 	D - Lucky? 	Java 21 	Accepted 	342 ms 	100 KB
+254098018 	Mar/30/2024 17:32UTC+5.5 	oreothicc 	F - Colourblindness 	Java 21 	Accepted 	296 ms 	200 KB
+254096348 	Mar/30/2024 17:20UTC+5.5 	oreothicc 	I - Following Directions 	Java 21 	Accepted 	296 ms 	500 KB
+254085912 	Mar/30/2024 16:03UTC+5.5 	oreothicc 	C - Division? 	Java 21 	Accepted 	280 ms 	300 KB
+254083394 	Mar/30/2024 15:46UTC+5.5 	oreothicc 	E - Marathon 	Java 21 	Accepted 	343 ms 	300 KB
+254081924 	Mar/30/2024 15:36UTC+5.5 	oreothicc 	G - Medium Number 	Java 21 	Accepted 	405 ms 	800 KB
+254081449 	Mar/30/2024 15:33UTC+5.5 	oreothicc 	H - Codeforces Checking 	Java 21 	Accepted 	264 ms 	0 KB
+254077848 	Mar/30/2024 15:10UTC+5.5 	oreothicc 	J - Prepend and Append 	Java 21 	Accepted 	248 ms 	600 KB
+254076959 	Mar/30/2024 15:05UTC+5.5 	oreothicc 	K - Plus or Minus 	Java 21 	Accepted 	249 ms 	0 KB
+254076210 	Mar/30/2024 15:01UTC+5.5 	oreothicc 	L - Grab the Candies 	Java 21 	Accepted 	420 ms 	300 KB
+254075311 	Mar/30/2024 14:55UTC+5.5 	oreothicc 	N - Love Story 	Java 21 	Accepted 	265 ms 	500 KB
+254071145 	Mar/30/2024 14:30UTC+5.5 	oreothicc 	O - Blank Space 	Java 21 	Accepted 	436 ms 	100 KB
+253892028 	Mar/29/2024 11:31UTC+5.5 	oreothicc 	C - Cover in Water 	Java 21 	Accepted 	296 ms 	0 KB
+253890787 	Mar/29/2024 11:19UTC+5.5 	oreothicc 	B - Line Trip 	Java 21 	Accepted 	420 ms 	200 KB
+253889866 	Mar/29/2024 11:11UTC+5.5 	oreothicc 	B - Line Trip 	Java 21 	Wrong answer on test 1 	264 ms 	0 KB
+253889606 	Mar/29/2024 11:09UTC+5.5 	oreothicc 	B - Line Trip 	Java 21 	Wrong answer on test 1 	264 ms 	0 KB
+253738000 	Mar/28/2024 21:00UTC+5.5 	oreothicc 	A - Stair, Peak, or Neither? 	Java 21 	Accepted 	311 ms 	100 KB
+253232845 	Mar/25/2024 20:42UTC+5.5 	oreothicc 	A - Halloumi Boxes 	Java 21 	Accepted 	358 ms 	600 KB
+251882080 	Mar/17/2024 12:59UTC+5.5 	oreothicc 	A - Watermelon 	Java 21 	Accepted 	498 ms 	0 KB
+251879821 	Mar/17/2024 12:45UTC+5.5 	oreothicc 	A - Way Too Long Words 	Java 21 	Accepted 	311 ms 	200 KB
+248309006 	Feb/26/2024 11:55UTC+5.5 	oreothicc 	A - Short Sort 	Java 21 	Accepted 	233 ms 	0 KB
+248307132 	Feb/26/2024 11:34UTC+5.5 	oreothicc 	A - Medium Number 	Java 21 	Accepted 	280 ms 	500 KB
+248306740 	Feb/26/2024 11:29UTC+5.5 	oreothicc 	A - Codeforces Checking 	Java 21 	Accepted 	264 ms 	0 KB
+248306233 	Feb/26/2024 11:23UTC+5.5 	oreothicc 	A - Plus or Minus 	Java 21 	Accepted 	202 ms 	0 KB
+248305954 	Feb/26/2024 11:19UTC+5.5 	oreothicc 	A - Love Story 	Java 21 	Accepted 	264 ms 	0 KB
+248305347 	Feb/26/2024 11:11UTC+5.5 	oreothicc 	A - To My Critics 	Java 21 	Accepted 	295 ms 	300 KB
+248305167 	Feb/26/2024 11:09UTC+5.5 	oreothicc 	A - Sum 	Java 21 	Accepted 	312 ms 	400 KB

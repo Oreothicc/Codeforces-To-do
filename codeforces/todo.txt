@@ -1,0 +1,501 @@
+Forbidden Integer
+
+Rudolph and Cut the Rope
+
+Rudolph and TicRudolf and the Another Competition
+
+Vika and Her Friends
+
+Morning Sandwich
+
+Monsters
+
+Ten Words of Wisdom
+
+Word on the Paper
+
+Balanced Round
+
+Escalator Conversations
+
+Parity Sort
+
+Tiles Comeback
+
+Desorting
+
+Longest Divisors Interval
+
+Good Arrays
+
+Maximum Rounding
+
+Assembly via Minimums
+
+Buttons
+
+Gift Carpet
+
+Sequence Game
+
+Channel
+
+Two Vessels
+
+The Corridor or There and Back Again
+
+NonShort Sort
+
+Good Kid
+
+Target Practice
+
+1D Eraser
+
+Jellyfish and Undertale
+
+Goals of Victory
+
+How Much Does Daytona Cost
+
+Aleksa and Stack
+
+Vasilije in Cacak
+
+Rigged!
+
+Chips on the Board
+
+Don't Try to Count
+
+Three Threadlets
+
+Perfect Square
+
+Chemistry
+
+Cut Ribbon
+
+Doremy's Paint 3
+
+Qingshan Loves Strings
+
+Sorting with Twos
+
+Secret Sport
+
+Treasure Chest
+
+Points and Minimum Distance
+
+Jagged Swaps
+
+AB Flipping
+
+Milica and String
+
+Game with Integers
+
+Cover in Water
+
+Laura and Operations
+
+Line Trip
+
+Binary Imbalance
+
+Halloumi Boxes
+
+Forked!
+
+Collecting Game
+
+Constructive Problems
+
+Begginer's Zelda
+
+Largest Subsequence
+
+Rook
+
+YetnotherrokenKeoard
+
+Removal of Unattractive Pairs
+
+Distinct Buttons
+
+LOL Lovers
+
+Game with Multiset
+
+Three Activities
+
+Game with Marbles (Easy Version)
+
+Game with Marbles (Hard Version)
+
+Not Quite Latin Square
+
+Can I Square
+
+Unnatural Language Processing
+
+Romantic Glasses
+
+2023
+
+Two Divisors
+
+Training Before the Olympiad
+
+Mathematical Problem
+
+Least Product
+
+Erase First or Second Letter
+
+Brick Wall
+
+Minimize Inversions
+
+Wallet Exchange
+
+PlusSatisfying Constraints
+
+Summation Game
+
+Square
+
+Arranging Cats
+
+Sending Messages
+
+Very Different Array
+
+Moving Chips
+
+Monsters Attack!
+
+Make it White
+
+Following the String
+
+Choose the Different Ones
+
+Find the Different Ones!
+
+Klever Permutation
+
+Rectangle Cutting
+
+Equalize
+
+Sasha and the Beautiful Array
+
+Sasha and the Drawing
+
+Maximise The Score
+
+Permutation Printing
+
+Recovering a Small String
+
+Make Equal
+
+Make Equal Again
+
+Turtle Puzzle Rearrange and Negate
+
+Turtle Math Fast Three Task
+
+Turtle Fingers Count the Values of k
+
+Long Multiplication
+
+Progressive Square
+
+Inhabitant of the Deep Sea
+
+Inaccurate Subsequence Search
+
+Long Inversions
+
+Unfair Game
+
+Nene's Game
+
+Nene and the Card Game
+
+Nene's Magical Matrix
+
+Stickogon
+
+A BIT of a Construction
+
+How Does the Rook Move
+
+Maximize
+
+Prefiquence
+
+Assembly via Remainders
+
+Permutation Game
+
+Cells Arrangement
+
+Equal XOR Segments
+
+Division + LCP (easy version)
+
+Two Friends
+
+Shifts and Sorting
+
+My First Sorting Problem
+
+Different String
+
+Clock and Strings
+
+Binary Cut
+
+Find the Car
+
+Circle Perimeter
+
+Increase Decrease Copy
+
+Alice and Books
+
+New Bakery
+
+Guess the Maximum
+
+XOR Sequences
+
+Earning on Bets
+
+Choosing Cubes
+
+Sofia and the Lost Operations
+
+GCDTurtle and Piggy Are Playing a Game
+
+Turtle and an Infinite Sequence
+
+Turtle and an Incomplete Sequence
+
+Soccer
+
+Collatz Conjecture
+
+Boring Day
+
+Beauty of the mountains
+
+Maximum Multiple Sum
+
+Good Prefixes
+
+Manhattan Circle
+
+Secret Box
+
+Final Boss
+
+DX Axis
+
+Matrix Stabilization
+
+Update Queries
+
+Mathematical Problem
+
+Beautiful Array
+
+Split the Multiset
+
+Make Majority
+
+Substring and Subsequence
+
+Two Movies
+
+Maximize the Last Element
+
+AND Reconstruction
+
+Absolute Zero
+
+Only Pluses
+
+Angry Monk
+
+Gorilla and Permutation
+
+Question Marks
+
+Parity and Sum
+
+Legs
+
+Scale
+
+Sort
+
+Fun
+
+Strong Password
+
+Make Three Regions
+
+Even Positions
+
+Maximize the Root
+
+A+B Again
+
+Card Game
+
+Showering
+
+Slavic's Exam
+
+Winner
+
+Drinks
+
+Primary Task
+
+Seating in a Bus
+
+Numeric String Template
+
+Dora's Set
+
+Index and Maximum Value
+
+Minimize!
+
+osu!mania
+
+The Legend of Freya the Frog
+
+Satyam and Counting
+
+Robin Helps
+
+Robin Hood and the Major Oak
+
+Find Minimum Operations
+
+Brightness Begins
+
+Bitwise Balancing
+
+Dubstep
+
+Second Order Statistics
+
+TTeam
+
+Boy Or Girl
+
+Beautiful Matrix
+
+Stones on the Table
+
+Queue at the School
+
+Games
+
+Beautiful Year
+
+Word Capitalization
+
+Bit++
+
+Ilya and Bank Account
+
+Even Odds
+
+Helpful Maths
+
+Reconnaissance 2
+
+Sale
+
+Alternating Current
+
+Magnets
+
+Cinema Line
+
+Registration System
+
+Translation
+
+Password Check
+
+Pasha and Hamsters
+
+Codecraft III
+
+Fedya and Maths
+
+Cheap Travel
+
+Wo
+
+Table Decorations
+
+Calculating Function
+
+BerSU Ball
+
+Vanya and Cubes
+
+Vanya and Lanterns
+
+DominoPiling
+
+Fox And Snake
+
+Chewbaсca and Number
+
+Vitaliy and Pie
+
+Soldier and Bananas
+
+Olesya and Rodion
+
+Word
+
+Patrick and Shopping
+
+Elephant
+
+Again Twenty Five!
+
+Vanya and Fence
+
+Hulk
+
+Interesting drink
+
+Anton and Danik
+
+Room Leader
+
+Arpas hard exam and Mehrdads naive cheat
+
+Bear And Big Brother
+
+Fraction
+
+Tom Riddle's Diary
+
+Die Roll
+
+Wrong Substraction

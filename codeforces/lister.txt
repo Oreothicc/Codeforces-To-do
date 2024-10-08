@@ -1,0 +1,281 @@
+1845 A - Forbidden Integer
+1846 A - Rudolph and Cut the Rope
+1846 B - Rudolph and Tic-Tac-Toe
+1846 C - Rudolf and the Another Competition
+1848 A - Vika and Her Friends
+1849 A - Morning Sandwich
+1849 B - Monsters
+1850 A - To My Critics
+1850 B - Ten Words of Wisdom
+1850 C - Word on the Paper
+1850 D - Balanced Round
+1851 A - Escalator Conversations
+1851 B - Parity Sort
+1851 C - Tiles Comeback
+1853 A - Desorting
+1855 A - Dalton the Teacher
+1855 B - Longest Divisors Interval
+1856 B - Good Arrays
+1857 A - Array Coloring
+1857 B - Maximum Rounding
+1857 C - Assembly via Minimums
+1858 A - Buttons
+1859 A - United We Stand
+1860 A - Not a Substring
+1862 A - Gift Carpet
+1862 B - Sequence Game
+1863 A - Channel
+1864 A - Increasing and Decreasing
+1866 A - Ambitious Kid
+1869 A - Make It Zero
+1870 A - MEXanized Array
+1872 A - Two Vessels
+1872 B - The Corridor or There and Back Again
+1872 C - Non-coprime Split
+1873 A - Short Sort
+1873 B - Good Kid
+1873 C - Target Practice
+1873 D - 1D Eraser
+1875 A - Jellyfish and Undertale
+1877 A - Goals of Victory
+1878 A - How Much Does Daytona Cost
+1878 B - Aleksa and Stack
+1878 C - Vasilije in Cacak
+1879 A - Rigged!
+1879 B - Chips on the Board
+1881 A - Don't Try to Count
+1881 B - Three Threadlets
+1881 C - Perfect Square
+1883 B - Chemistry
+189 A - Cut Ribbon
+1890 A - Doremy's Paint 3
+1890 B - Qingshan Loves Strings
+1891 A - Sorting with Twos
+1894 A - Secret Sport
+1895 A - Treasure Chest
+1895 B - Points and Minimum Distance
+1896 A - Jagged Swaps
+1896 B - AB Flipping
+1898 A - Milica and String
+1899 A - Game with Integers
+1900 A - Cover in Water
+1900 B - Laura and Operations
+1901 A - Line Trip
+1902 A - Binary Imbalance
+1903 A - Halloumi Boxes
+1904 A - Forked!
+1904 B - Collecting Game
+1905 A - Constructive Problems
+1905 B - Begginer's Zelda
+1905 C - Largest Subsequence
+1907 A - Rook
+1907 B - YetnotherrokenKeoard
+1907 C - Removal of Unattractive Pairs
+1909 A - Distinct Buttons
+1912 L - LOL Lovers
+1913 A - Rating Increase
+1913 B - Swap and Delete
+1913 C - Game with Multiset
+1914 A - Problemsolving Log
+1914 B - Preparing for the Contest
+1914 C - Quests
+1914 D - Three Activities
+1914 E1 - Game with Marbles (Easy Version)
+1914 E2 - Game with Marbles (Hard Version)
+1915 A - Odd One Out
+1915 B - Not Quite Latin Square
+1915 C - Can I Square
+1915 D - Unnatural Language Processing
+1915 E - Romantic Glasses
+1916 A - 2023
+1916 B - Two Divisors
+1916 C - Training Before the Olympiad
+1916 D - Mathematical Problem
+1917 A - Least Product
+1917 B - Erase First or Second Letter
+1918 A - Brick Wall
+1918 B - Minimize Inversions
+1919 A - Wallet Exchange
+1919 B - Plus-Minus Split
+1920 A - Satisfying Constraints
+1920 B - Summation Game
+1921 A - Square
+1921 B - Arranging Cats
+1921 C - Sending Messages
+1921 D - Very Different Array
+1923 A - Moving Chips
+1923 B - Monsters Attack!
+1927 A - Make it White
+1927 B - Following the String
+1927 C - Choose the Different Ones
+1927 D - Find the Different Ones!
+1927 E - Klever Permutation
+1928 A - Rectangle Cutting
+1928 B - Equalize
+1929 A - Sasha and the Beautiful Array
+1929 B - Sasha and the Drawing
+1930 A - Maximise The Score
+1930 B - Permutation Printing
+1931 A - Recovering a Small String
+1931 B - Make Equal
+1931 C - Make Equal Again
+1933 A - Turtle Puzzle Rearrange and Negate
+1933 B - Turtle Math Fast Three Task
+1933 C - Turtle Fingers Count the Values of k
+1945 A - Setting up Camp
+1954 C - Long Multiplication
+1955 A - Yogurt Sale
+1955 B - Progressive Square
+1955 C - Inhabitant of the Deep Sea
+1955 D - Inaccurate Subsequence Search
+1955 E - Long Inversions
+1955 F - Unfair Game
+1956 A - Nene's Game
+1956 B - Nene and the Card Game
+1956 C - Nene's Magical Matrix
+1957 A - Stickogon
+1957 B - A BIT of a Construction
+1957 C - How Does the Rook Move
+1968 A - Maximize
+1968 B - Prefiquence
+1968 C - Assembly via Remainders
+1968 D - Permutation Game
+1968 E - Cells Arrangement
+1968 F - Equal XOR Segments
+1968 G1 - Division + LCP (easy version)
+1969 A - Two Friends
+1969 B - Shifts and Sorting
+1971 A - My First Sorting Problem
+1971 B - Different String
+1971 C - Clock and Strings
+1971 D - Binary Cut
+1971 E - Find the Car
+1971 F - Circle Perimeter
+1976 A - Verify Password
+1976 B - Increase Decrease Copy
+1977 A - Little Nikita
+1978 A - Alice and Books
+1978 B - New Bakery
+1979 A - Guess the Maximum
+1979 B - XOR Sequences
+1979 C - Earning on Bets
+1980 A - Problem Generator
+1980 B - Choosing Cubes
+1980 C - Sofia and the Lost Operations
+1980 D - GCD-sequence
+1981 A - Turtle and Piggy Are Playing a Game
+1981 B - Turtle and an Infinite Sequence
+1981 C - Turtle and an Incomplete Sequence
+1982 A - Soccer
+1982 B - Collatz Conjecture
+1982 C - Boring Day
+1982 D - Beauty of the mountains
+1985 A - Creating Words
+1985 B - Maximum Multiple Sum
+1985 C - Good Prefixes
+1985 D - Manhattan Circle
+1985 E - Secret Box
+1985 F - Final Boss
+1985 G - D-Function
+1986 A - X Axis
+1986 B - Matrix Stabilization
+1986 C - Update Queries
+1986 D - Mathematical Problem
+1986 E - Beautiful Array
+1988 A - Split the Multiset
+1988 B - Make Majority
+1989 A - Catch the Coin
+1989 B - Substring and Subsequence
+1989 C - Two Movies
+1991 A - Maximize the Last Element
+1991 B - AND Reconstruction
+1991 C - Absolute Zero
+1992 A - Only Pluses
+1992 B - Angry Monk
+1992 C - Gorilla and Permutation
+1993 A - Question Marks
+1993 B - Parity and Sum
+1996 A - Legs
+1996 B - Scale
+1996 C - Sort
+1996 D - Fun
+1997 A - Strong Password
+1997 B - Make Three Regions
+1997 C - Even Positions
+1997 D - Maximize the Root
+1999 A - A+B Again
+1999 B - Card Game
+1999 C - Showering
+1999 D - Slavic's Exam
+2 A - Winner
+200 B - Drinks
+2000 A - Primary Task
+2000 B - Seating in a Bus
+2000 C - Numeric String Template
+2007 A - Dora's Set
+2007 B - Index and Maximum Value
+2009 A - Minimize!
+2009 B - osu!mania
+2009 C - The Legend of Freya the Frog
+2009 D - Satyam and Counting
+2014 A - Robin Helps
+2014 B - Robin Hood and the Major Oak
+2020 A - Find Minimum Operations
+2020 B - Brightness Begins
+2020 C - Bitwise Balancing
+208 A - Dubstep
+22 A - Second Order Statistics
+230 B - T-primes
+231 A - Team
+236 A - Boy Or Girl
+263 A - Beautiful Matrix
+266 A - Stones on the Table
+266 B - Queue at the School
+268 A - Games
+271 A - Beautiful Year
+281 A - Word Capitalization
+282 A - Bit++
+313 A - Ilya and Bank Account
+318 A - Even Odds
+339 A - Helpful Maths
+34 A - Reconnaissance 2
+34 B - Sale
+343 B - Alternating Current
+344 A - Magnets
+349 A - Cinema Line
+4 A - Watermelon
+4 C - Registration System
+41 A - Translation
+411 A - Password Check
+421 A - Pasha and Hamsters
+45 A - Codecraft III
+456 B - Fedya and Maths
+466 A - Cheap Travel
+474 B - Wo
+478 C - Table Decorations
+486 A - Calculating Function
+489 B - BerSU Ball
+492 A - Vanya and Cubes
+492 B - Vanya and Lanterns
+50 A - DominoPiling
+510 A - Fox And Snake
+514 A - Chewbaсca and Number
+525 A - Vitaliy and Pie
+546 A - Soldier and Bananas
+584 A - Olesya and Rodion
+59 A - Word
+599 A - Patrick and Shopping
+617 A - Elephant
+630 A - Again Twenty Five!
+677 A - Vanya and Fence
+705 A - Hulk
+706 B - Interesting drink
+71 A - Way Too Long Words
+734 A - Anton and Danik
+74 A - Room Leader
+742 A - Arpas hard exam and Mehrdads naive cheat
+791 A - Bear And Big Brother
+854 A - Fraction
+855 A - Tom Riddle's Diary
+9 A - Die Roll
+977 A - Wrong Substraction
